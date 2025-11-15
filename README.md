@@ -4,7 +4,7 @@ A complete React single-page application demonstrating secure JWT authentication
 
 ## 🚀 Live Demo
 
-**[View Live Application](#)** _(Deploy and add URL here)_
+**[View Live Application](#)** [_(Deploy and add URL here)_](https://ia-4-sigma.vercel.app/login)
 
 **Demo Credentials:**
 - Email: `user@example.com` / Password: `password123`
